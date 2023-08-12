@@ -1,0 +1,62 @@
+
+.one{
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-align: center;
+    color: black;
+    background-color: rgb(235, 216, 235);
+    margin-bottom: 0%;
+   
+    
+}
+
+.two{
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    color: black; 
+    background-color: rgb(194, 157, 194);
+    margin-bottom: 0%;
+   
+    
+}
+
+.three{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    color: black;
+    background-color: rgb(160, 114, 160);
+}
+
+.four{
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    color: black;
+    background-color: rgb(151, 85, 151);
+}
+
+.five{
+    font-family: 'Borel', cursive;
+    text-align: center;
+    color: black;
+    background-color: rgb(121, 51, 121);
+}
+
+.five{
+    font-family: 'Lugrasimo', cursive;
+    text-align: center;
+    color: black;
+    background-color: rgb(100, 45, 100);
+}
+
+.six{
+    font-family: 'Yellowtail', cursive;
+    text-align: center;
+    color: black;
+    background-color: rgb(83, 18, 83);
+}
+
+.seven{
+     font-family: 'Handjet', cursive; 
+     text-align: center;
+     color: black;
+     background-color: purple;
+}
